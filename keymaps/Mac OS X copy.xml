@@ -13,6 +13,14 @@
   <action id=":cursive.testing.actions/run-single-test">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="Arrangement.Rule.Match.Condition.Move.Down">
+    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="Arrangement.Rule.Match.Condition.Move.Up">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
