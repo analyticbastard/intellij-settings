@@ -28,6 +28,8 @@
   </action>
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
   <action id="Images.Editor.ToggleGrid" />
   <action id="NextTab" />
   <action id="PreviousTab" />
