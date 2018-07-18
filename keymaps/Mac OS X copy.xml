@@ -30,6 +30,9 @@
   <action id="Diff.PrevChange" />
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
   <action id="Git.Menu">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
@@ -37,4 +40,5 @@
   <action id="ImplementMethods" />
   <action id="NextTab" />
   <action id="PreviousTab" />
+  <action id="QuickImplementations" />
 </keymap>
