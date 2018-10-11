@@ -44,4 +44,7 @@
   <action id="NextTab" />
   <action id="PreviousTab" />
   <action id="QuickImplementations" />
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
 </keymap>
