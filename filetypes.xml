@@ -15,6 +15,7 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="source" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".paths" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="scss" type="PLAIN_TEXT" />
     </extensionMap>
