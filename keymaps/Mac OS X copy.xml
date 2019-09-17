@@ -2,10 +2,12 @@
   <action id=":cursive.actions.paredit/backward-up">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id=":cursive.actions.paredit/close-curly-and-newline" />
   <action id=":cursive.actions.paredit/slurp-backwards" />
   <action id=":cursive.actions.paredit/slurp-forwards">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
+  <action id=":cursive.actions.paredit/wrap-curly" />
   <action id=":cursive.repl.actions/load-file">
     <keyboard-shortcut first-keystroke="shift alt l" />
     <keyboard-shortcut first-keystroke="meta quote" />
@@ -31,6 +33,8 @@
   </action>
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
+  <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="Git.Branches">
@@ -41,8 +45,12 @@
   </action>
   <action id="Images.Editor.ToggleGrid" />
   <action id="ImplementMethods" />
-  <action id="NextTab" />
-  <action id="PreviousTab" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
   <action id="QuickImplementations" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl slash" />
