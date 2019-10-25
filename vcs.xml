@@ -242,6 +242,10 @@
           <option name="url" value="git@github.com:MailOnline/mol-fe-xpmodule-savings-calculator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:MailOnline/mol-fe-vouchercodes.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
