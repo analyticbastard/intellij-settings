@@ -250,6 +250,10 @@
           <option name="url" value="git@github.com:MailOnline/mol-fe-xpmodule-product-carousel.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:MailOnline/clj-mol-components-author-meta.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
