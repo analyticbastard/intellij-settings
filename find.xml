@@ -15,5 +15,6 @@
     <mask>*.mxml</mask>
     <mask>*.html</mask>
     <mask>*.clj</mask>
+    <mask>*css</mask>
   </component>
 </application>
