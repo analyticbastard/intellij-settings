@@ -14,5 +14,6 @@
     <mask>*.html</mask>
     <mask>*.clj</mask>
     <mask>*css</mask>
+    <mask>*tsx</mask>
   </component>
 </application>
