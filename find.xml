@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*log" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -16,5 +17,6 @@
     <mask>*css</mask>
     <mask>*tsx</mask>
     <mask>*clj</mask>
+    <mask>*log</mask>
   </component>
 </application>
