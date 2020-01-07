@@ -38,7 +38,6 @@
   <action id="Diff.PrevChange" />
   <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
-  <action id="EditorChooseLookupItem" />
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorScrollDown" />
