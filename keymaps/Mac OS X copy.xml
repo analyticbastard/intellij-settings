@@ -31,8 +31,6 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
-  <action id="Console.Execute" />
-  <action id="Console.Execute.Multiline" />
   <action id="DBNavigator.Actions.Execute" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
