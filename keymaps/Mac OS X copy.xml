@@ -2,10 +2,12 @@
   <action id=":cursive.actions.paredit/backward-up">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id=":cursive.actions.paredit/close-curly-and-newline" />
   <action id=":cursive.actions.paredit/slurp-backwards" />
   <action id=":cursive.actions.paredit/slurp-forwards">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
+  <action id=":cursive.actions.paredit/wrap-curly" />
   <action id=":cursive.repl.actions/load-file">
     <keyboard-shortcut first-keystroke="shift alt l" />
     <keyboard-shortcut first-keystroke="meta quote" />
@@ -29,19 +31,43 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
+  <action id="DBNavigator.Actions.Execute" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
+  <action id="DirDiffMenu.SynchronizeDiff" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="Git.Menu">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="Groovy.Shell.Execute" />
   <action id="Images.Editor.ToggleGrid" />
+  <action id="Images.Thumbnails.EnterAction" />
   <action id="ImplementMethods" />
-  <action id="NextTab" />
-  <action id="PreviousTab" />
+  <action id="KotlinShellExecute" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
   <action id="QuickImplementations" />
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="f13" />
+  </action>
+  <action id="ViewSource" />
 </keymap>
