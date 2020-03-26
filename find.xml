@@ -17,7 +17,7 @@
     <mask>*css</mask>
     <mask>*tsx</mask>
     <mask>*log</mask>
-    <mask>*.html</mask>
     <mask>*clj</mask>
+    <mask>*.html</mask>
   </component>
 </application>
