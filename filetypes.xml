@@ -1,13 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="" type="Bash" />
       <mapping pattern=".env-vars" type="Clojure" />
-      <mapping pattern=".paths" type="PLAIN_TEXT" />
       <mapping pattern="source" type="PLAIN_TEXT" />
+      <mapping pattern="topbuzz" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".paths" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="scss" type="PLAIN_TEXT" />
+      <mapping ext="" type="Bash" />
     </extensionMap>
   </component>
 </application>
