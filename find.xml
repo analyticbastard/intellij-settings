@@ -20,8 +20,8 @@
     <mask>*css</mask>
     <mask>*tsx</mask>
     <mask>*log</mask>
-    <mask>*.html</mask>
     <mask>*sql</mask>
+    <mask>*.html</mask>
     <mask>*clj</mask>
   </component>
 </application>
