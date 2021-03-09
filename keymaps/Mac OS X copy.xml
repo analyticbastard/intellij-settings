@@ -44,6 +44,7 @@
   <action id="EditorStartNewLine">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="Exit" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
