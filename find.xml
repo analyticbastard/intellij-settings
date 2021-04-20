@@ -14,10 +14,10 @@
     <mask>*tsx</mask>
     <mask>*log</mask>
     <mask>*sql</mask>
-    <mask>*.html</mask>
     <mask>*css</mask>
     <mask>*clj</mask>
     <mask>§§</mask>
     <mask>*.clj</mask>
+    <mask>*.html</mask>
   </component>
 </application>
