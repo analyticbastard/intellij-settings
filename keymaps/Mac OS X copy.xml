@@ -51,6 +51,9 @@
   <action id="Git.Menu">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="Github.Open.In.Browser">
+    <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
   <action id="Groovy.Shell.Execute" />
   <action id="Images.Editor.ToggleGrid" />
   <action id="Images.Thumbnails.EnterAction" />
