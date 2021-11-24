@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.edn" />
+    <option name="FILE_MASK" value="*.clj" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -21,7 +21,7 @@
     <mask>*clj</mask>
     <mask>§§</mask>
     <mask>*.html</mask>
-    <mask>*.clj</mask>
     <mask>*.edn</mask>
+    <mask>*.clj</mask>
   </component>
 </application>
