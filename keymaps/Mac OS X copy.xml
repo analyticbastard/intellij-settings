@@ -22,10 +22,6 @@
     <keyboard-shortcut first-keystroke="alt down" />
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
-  <action id="Arrangement.Rule.Match.Condition.Move.Up">
-    <keyboard-shortcut first-keystroke="alt up" />
-    <keyboard-shortcut first-keystroke="meta up" />
-  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -59,6 +55,7 @@
   <action id="Images.Thumbnails.EnterAction" />
   <action id="ImplementMethods" />
   <action id="KotlinShellExecute" />
+  <action id="MethodOverloadSwitchUp" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
@@ -69,6 +66,9 @@
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="QuickImplementations" />
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="f13" />
