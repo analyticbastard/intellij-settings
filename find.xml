@@ -18,8 +18,8 @@
     <mask>*css</mask>
     <mask>*clj</mask>
     <mask>§§</mask>
-    <mask>*.html</mask>
     <mask>*.edn</mask>
+    <mask>*.html</mask>
     <mask>*.clj</mask>
   </component>
 </application>
