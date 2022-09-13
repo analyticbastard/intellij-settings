@@ -8,6 +8,7 @@
       <mapping pattern=".paths" type="PLAIN_TEXT" />
       <mapping pattern="topbuzz" type="PLAIN_TEXT" />
       <mapping ext="scss" type="PLAIN_TEXT" />
+      <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="" type="Bash" />
     </extensionMap>
