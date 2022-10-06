@@ -48,7 +48,7 @@
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine">
@@ -95,6 +95,7 @@
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="QuickImplementations" />
+  <action id="SaveAll" />
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
