@@ -1,5 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
-    <file url="file://$USER_HOME$/intelliJ/clj-applenews/src/clj_applenews/util.clj" value="Clojure" />
+    <file url="file://$USER_HOME$/intelliJ/fbi-agent/src/fbi_agent/facebook/util.clj" value="Clojure" />
+    <file url="file://$USER_HOME$/intelliJ/fbi-agent/src/fbi_agent/util.clj" value="Clojure" />
   </component>
 </application>
